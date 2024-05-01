@@ -1,3 +1,3 @@
 <div>
-    {{-- Do your work, then step back. --}}
+    <h1> LIVEWIRE COMPONENT </h1>
 </div>
